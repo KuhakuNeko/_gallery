@@ -8,6 +8,9 @@ license_url: 'https://commons.wikimedia.org/wiki/File:EyeToy.png'
 categories:
   - Βιντεοπαιχνίδια
   - input-device
+  - μικτή-πραγματικότητα
+  - τεχνητή-πραγματικότητα
+  - συσκευή-εισόδου
 tags:
   - EyeToy
   - Sony
@@ -17,4 +20,5 @@ tags:
   - PlayStation2
   - Webcam
   - Motion-sensor
+  - Αισθητήρας-κινήσης
 ---
