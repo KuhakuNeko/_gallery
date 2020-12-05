@@ -8,8 +8,11 @@ license_url: 'https://commons.wikimedia.org/wiki/File:Wii-console.jpg'
 categories:
   - Βιντεοπαιχνίδια
   - input-device
+  - συσκευή-εισόδου
 tags:
   - Nintendo
   - Wii-remote
   - Motion-sensor
+  - Αισθητήρας-κινήσης
+  - Χειριστήριο
 ---
